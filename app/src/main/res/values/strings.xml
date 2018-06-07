@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">我们的纪念</string>
+    <string name="tab_white_inner1">室内婚纱</string>
+    <string name="tab_white_outer1">室外婚纱</string>
+    <string name="tab_white_inner2">室外青春</string>
+    <string name="tab_white_outer2">室内调皮</string>
+    <string name="back">返回</string>
+    <string name="two_pressed">再按一次退出我们的纪念</string>
+    <string name="dear_fmt">亲爱的，今天我们相识第 %1$d 天</string>
+    <string name="welcome_text1">我们曾经相识，似在昨天</string>
+    <string name="welcome_text2">我们曾经奔波，流连万般</string>
+    <string name="welcome_text3">我们哭过 笑过 吵过 闹过</string>
+    <string name="welcome_text4">此生永不散</string>
+    <string name="jump">开始使用</string>
+</resources>
